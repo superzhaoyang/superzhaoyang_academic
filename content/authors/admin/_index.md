@@ -39,13 +39,11 @@ social:
   link: 'mailto:1599602677@qq.com'
 - icon: qq
   icon_pack: fab
-  link: 'http://wpa.qq.com\/msgrd?v=3&uin=1599602677&site=qq&menu=yes'
+  link: ''
 - icon: github
   icon_pack: fab
   link: 'https://github.com/superzhaoyang'
-- icon: weibo
-  icon_pack: fab
-  link: 'https://weibo.com/p/1005056667626436/home?from=page_100505&mod=TAB&is_all=1#place'
+
   
 
 

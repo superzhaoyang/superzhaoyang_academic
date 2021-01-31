@@ -57,7 +57,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "1599602677@qq.com"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

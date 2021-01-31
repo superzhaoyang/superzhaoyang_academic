@@ -63,7 +63,7 @@ email: "1599602677@qq.com"
 highlight_name: false
 ---
 
-I am an undergraduate student in ShanDong Univesity. I hava a great passion for web development, backend development and all kinds of technologh of computer and Internet. I am now working on National College Student Software Innovation Competition and Looking for an internship.
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

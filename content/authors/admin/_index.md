@@ -43,6 +43,9 @@ social:
 - icon: github
   icon_pack: fab
   link: 'https://github.com/superzhaoyang'
+- icon: github
+  icon_pack: fab
+  link: 'https://weibo.com/p/1005056667626436/home?from=page_100505&mod=TAB&is_all=1#place'
 
   
 

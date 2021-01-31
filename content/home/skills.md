@@ -16,18 +16,22 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
+- description: c/c++ and QT
+  icon: cuttlefish
   icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
+  name: c/c++
+- description: python,flask,django and pytorch
+  icon: python
+  icon_pack: fab
+  name: python
+- description: SQL Server/mysql/redis
+  icon: database
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: database
+- description: nginx/docker/fastcgi/fastdfs
+  icon: server
   icon_pack: fas
-  name: Photography
+  name: server
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

@@ -37,6 +37,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:1599602677@qq.com'
+- icon: qq
+  icon_pack: fas
+  link: 'mailto:1599602677@qq.com'
 - icon: github
   icon_pack: fab
   link: https://github.com/superzhaoyang

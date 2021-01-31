@@ -39,10 +39,14 @@ social:
   link: 'mailto:1599602677@qq.com'
 - icon: qq
   icon_pack: fab
-  link: 'mailto:1599602677@qq.com'
+  link: 'http://wpa.qq.com\/msgrd?v=3&uin=1599602677&site=qq&menu=yes'
 - icon: github
   icon_pack: fab
   link: https://github.com/superzhaoyang
+- icon: weibo
+  icon_pack: fab
+  link: https://weibo.com/p/1005056667626436/home?from=page_100505&mod=TAB&is_all=1#place
+  
 
 
 # Link to a PDF of your resume/CV.
@@ -53,14 +57,13 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "1599602677@qq.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an undergraduate student in ShanDong Univesity. I hava a great passion for web development, backend development and all kinds of technologh of computer and Internet. I am now working on National College Student Software Innovation Competition and Looking for an internship.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

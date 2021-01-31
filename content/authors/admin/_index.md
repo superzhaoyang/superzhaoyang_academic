@@ -38,7 +38,7 @@ social:
   icon_pack: fas
   link: 'mailto:1599602677@qq.com'
 - icon: qq
-  icon_pack: fas
+  icon_pack: fab
   link: 'mailto:1599602677@qq.com'
 - icon: github
   icon_pack: fab

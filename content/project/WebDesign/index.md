@@ -31,12 +31,73 @@ url_video: ""
 #slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+# STMS
+This is my web course design mainly based on flask and bootstap.  
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+Some mainly specific functions of this management system are in the picture below.
+========
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+![Image text](https://github.com/superzhaoyang/img_storage/blob/master/web_design/%E6%89%B9%E6%B3%A8%202020-06-28%20210551.png)  
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Login page
+========
+
+![Image text](https://github.com/superzhaoyang/img_storage/blob/master/%E6%89%B9%E6%B3%A8%202020-06-28%20180057.png)  
+
+Student select cousrse page
+========
+
+![Image text](https://github.com/superzhaoyang/img_storage/blob/master/web_design/Inkedstudent_index_LI.jpg)
+
+Student information and GPA
+========
+
+![Image text](https://github.com/superzhaoyang/img_storage/blob/master/web_design/QQ%E5%9B%BE%E7%89%8720200628183045.png)
+
+Teacher index
+========
+![Image text](https://github.com/superzhaoyang/img_storage/blob/master/web_design/teacher_idx.png)
+
+Teacher upload the score with Excel and change score online
+========
+![Image text](https://github.com/superzhaoyang/img_storage/blob/master/web_design/add_score.png)
+![Image text](https://github.com/superzhaoyang/img_storage/blob/master/web_design/teacher_add_score.png)
+![Image text](https://github.com/superzhaoyang/img_storage/blob/master/web_design/teacher_change.png)
+
+Senate members Index
+========
+![Image text](https://github.com/superzhaoyang/img_storage/blob/master/web_design/jiaowu.png)
+
+Alter student info
+========
+![Image text](https://github.com/superzhaoyang/img_storage/blob/master/web_design/add_student.png)
+
+
+Alter course info
+========
+![Image text](https://github.com/superzhaoyang/img_storage/blob/master/web_design/%E6%89%B9%E6%B3%A8%202020-06-28%20194439.png)
+![Image text](https://github.com/superzhaoyang/img_storage/blob/master/web_design/%E6%89%B9%E6%B3%A8%202020-06-28%20194630.png)
+![Image text](https://github.com/superzhaoyang/img_storage/blob/master/web_design/%E6%89%B9%E6%B3%A8%202020-06-28%20195046.png)
+
+Addition
+========
+    Change password
+    page visit protect
+    change avatar
+    ....
+    No longer show these imgages.
+
+
+
+The logistic relationship of Database tables are as follows:
+========
+![Image text](https://github.com/superzhaoyang/img_storage/blob/master/web_design/%E6%89%B9%E6%B3%A8%202020-06-28%20175820.png)
+
+Conclusion
+========
+Through this web design,I have learned a lot about flask,bootstap and js.These unarguably have a benefical influence on me.
+
+Thanks 
+=======
+YiXuan Wu

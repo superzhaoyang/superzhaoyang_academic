@@ -62,4 +62,4 @@ highlight_name: false
 ---
 I am an undergraduate student in ShanDong Univesity. I hava a great passion for web development, backend development and all kinds of technologh of computer and Internet. I am now working on National College Student Software Innovation Competition and Looking for an internship.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resume{{< /staticref >}}.

@@ -8,7 +8,7 @@ tags:
 date: "2020-5-2"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/superzhaoyang/FlappyBirdDQN"
 
 image:
   caption: https://superzhaoyang.oss-cn-beijing.aliyuncs.com/images/hezuo.jpg

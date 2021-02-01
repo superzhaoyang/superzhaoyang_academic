@@ -97,7 +97,7 @@ address = {street = "Baodi", city = "Tianjin", region = "120000", postcode = "30
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "117.37076978881838", longitude = "39.768499606514794"}
+coordinates = {latitude = "117.3707697", longitude = "39.7684996"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"

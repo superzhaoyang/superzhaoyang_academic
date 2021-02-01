@@ -11,8 +11,8 @@ date: "2020-5-2"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+  caption: https://superzhaoyang.oss-cn-beijing.aliyuncs.com/images/hezuo.jpg
+  focal_point: https://superzhaoyang.oss-cn-beijing.aliyuncs.com/images/hezuo.jpg
 
 links:
 - icon: github

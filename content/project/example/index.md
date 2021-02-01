@@ -1,9 +1,11 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: FlappyBirdDQN
+summary: This project uses the main framework of pytorch+pygame+opencv,Papers on Deepmind《Human-level control through deep Reinforcement learning》,Choosing Flappy Bird as a game instance to reproduce its core algorithm.As we finish trainging,this brid can beat most of people players.
 tags:
 - Deep Learning
-date: "2016-04-27T00:00:00Z"
+- CNN
+- Reinforcement Learning
+date: "2020-5-2"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -13,10 +15,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: github
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://github.com/superzhaoyang/FlappyBirdDQN
 url_code: ""
 url_pdf: ""
 url_slides: ""
